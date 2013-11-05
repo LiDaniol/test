@@ -1,0 +1,8 @@
+<?php
+/*
+* print array() 
+*/
+echo "<pre>";
+print_r($rows);
+echo "</pre>";
+?>
